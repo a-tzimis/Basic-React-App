@@ -1,1 +1,1 @@
-Basic React App demonstrating understanding of React's components and props object. Generates 3 random numbers and places them in a simple webpage as Card components
+Basic React App demonstrating understanding of React's components and props object. Generates 3 random numbers and places them in a simple webpage as Card components. In case anyone wants to run this, you would need to add the node_modules folder to your project. Thank you for your time!
